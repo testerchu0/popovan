@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/popovan/precache-manifest.48c6fb39027df627f9128dc48d9d6b47.js"
+  "/popovan/precache-manifest.159224b62e9da7b43f28c4a7b5f84391.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "popovan"});
